@@ -19,7 +19,7 @@ lapCounter = 0
 rightservoMin = 400
 rightservoMax = 420
 
-leftservoMin = 380  # Min pulse length out of 4096
+leftservoMin = 400  # Min pulse length out of 4096
 leftservoMax = 360  # Max pulse length out of 4096
 
 def setServoPulse(channel, pulse):
