@@ -14,13 +14,19 @@ leftSensor = 22
 rightSensor = 18
 middleSensor = 11
 
+enableSensor = 10
+
 lapCounter = 0
 
-rightservoMin = 400
-rightservoMax = 420
+servoZero = 400
 
-leftservoMin = 400  # Min pulse length out of 4096
-leftservoMax = 360  # Max pulse length out of 4096
+rightservoMin = 390
+rightservoMed = 380
+rightservoMax = 370
+
+leftservoMin = 410  # Min pulse length out of 4096
+leftservoMed = 420
+leftservoMax = 430  # Max pulse length out of 4096
 
 def setServoPulse(channel, pulse):
   pulseLength = 1000000                   # 1,000,000 us per second
@@ -38,36 +44,89 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(leftSensor,GPIO.IN)
 GPIO.setup(rightSensor,GPIO.IN)
 GPIO.setup(middleSensor,GPIO.IN)
+GPIO.setup(enableSensor, GPIO.IN)
+
+time.sleep (10)
+
+hitStartLine = False
+wasDisabled = True
+
+
 while (True):
 	
-	left=GPIO.input(leftSensor)
-	middle=GPIO.input(middleSensor)
-	right=GPIO.input(rightSensor)
+	left   = GPIO.input(leftSensor)
+	middle = GPIO.input(middleSensor)
+	right  = GPIO.input(rightSensor)
+	enable = GPIO.input(enableSensor)	
 
-	print 'L:' + str(left) + ' M:' + str(middle) + ' R:' + str(right)
+	print 'L:' + str(left) + ' M:' + str(middle) + ' R:' + str(right) + ' E: ' + str(enable)
  
-	if middle and left and right:
+	if enable: 
+
+		if wasDisabled:
+			hasntHitFlag = False
+
+		wasDisabled = False
+
+	if not enable:
+
+		print "Disabling"
+
+		pwm.setPWM(1,0,servoZero)
+		pwm.setPWM(0,0,servoZero)
+
+		wasDisabled = True		
+
+	elif hasntHitFlag and right:
+		pwm.setPWM(1,0,leftservoMin)
+		pwm.setPWM(0,0,rightservoMed)
+		if middle and right:
+			hasntHitFlag = False
+
+	elif hasntHitFlag and left:
+		pwm.setPWM(1,0,leftservoMed)
+		pwm.setPWM(0,0,rightservoMin)
+		if middle and left:
+			hasntHitFlag = False	
+
+	elif middle and left and right:
 		lapCounter += 1
+
+		if (hitStartLine == False):
+			hitStartLine = True
+			
+			pwm.setPWM(1,0,servoZero)
+			pwm.setPWM(0,0,servoZero)			
+
+			time.sleep(2)		
+
+		pwm.setPWM(1,0,leftservoMax)
+		pwm.setPWM(0,0,rightservoMax)
 	
 	elif middle and left:
-		
-		pwm.setPWM(1, 0, leftservoMin)
+
+		pwm.setPWM(1, 0, leftservoMed)
   		pwm.setPWM(0, 0, rightservoMax)
 	
 	elif left:
 		
-		pwm.setPWM(1,0,0)
+		pwm.setPWM(1,0,servoZero)
 		pwm.setPWM(0,0,rightservoMin)
 
 	elif right and middle:
 		
 		pwm.setPWM(1,0,leftservoMax)
-		pwm.setPWM(0,0,rightservoMin)
+		pwm.setPWM(0,0,rightservoMed)
 
 	elif right:
 		
 		pwm.setPWM(1,0,leftservoMin)
-		pwm.setPWM(0,0,0)
+		pwm.setPWM(0,0,servoZero)
+
+	elif middle:
+
+		pwm.setPWM(1,0,leftservoMed)
+		pwm.setPWM(0,0,rightservoMed)
 
 	else:
 		
@@ -75,4 +134,4 @@ while (True):
 		pwm.setPWM(0,0,rightservoMin)
 
 	
- 	time.sleep(0.1)
+ 	time.sleep(0.01)
