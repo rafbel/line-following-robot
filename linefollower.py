@@ -46,92 +46,102 @@ GPIO.setup(rightSensor,GPIO.IN)
 GPIO.setup(middleSensor,GPIO.IN)
 GPIO.setup(enableSensor, GPIO.IN)
 
-time.sleep (10)
-
-hitStartLine = False
-wasDisabled = True
-
-
 while (True):
+	pwm.setPWM(0,0,servoZero)
+	pwm.setPWM(1,0,servoZero)
+	time.sleep (10)
+
+	hitStartLine = False
+	wasDisabled = True
+	hasntHitFlag = True
+
+	lastReadM = 0
+	lastReadL = 0
+	lastReadR = 0
+
+	enable = GPIO.input(enableSensor)
+
+	count1 = 0
+	count2 = 0
+
+	while (enable):
 	
-	left   = GPIO.input(leftSensor)
-	middle = GPIO.input(middleSensor)
-	right  = GPIO.input(rightSensor)
-	enable = GPIO.input(enableSensor)	
+		left   = GPIO.input(leftSensor)
+		middle = GPIO.input(middleSensor)
+		right  = GPIO.input(rightSensor)
+		enable = GPIO.input(enableSensor)	
 
-	print 'L:' + str(left) + ' M:' + str(middle) + ' R:' + str(right) + ' E: ' + str(enable)
- 
-	if enable: 
-
-		if wasDisabled:
+		print 'L:' + str(left) + ' M:' + str(middle) + ' R:' + str(right) + ' E: ' + str(enable)
+		print 'Flag: ' + str(hasntHitFlag) 	
+	
+		if (not lastReadM) and (not lastReadR) and (not lastReadL) and right:
+		
+			#count1 += 0.1
+			
+			#pwm.setPWM(1,0,servoZero)
+			#pwm.setPWM(0,0,rightservoMax)
+			time.sleep(0.8)
+			pwm.setPWM(0,0,rightservoMax)
+			pwm.setPWM(1,0,rightservoMin)
 			hasntHitFlag = False
+			time.sleep(1.5)
 
-		wasDisabled = False
-
-	if not enable:
-
-		print "Disabling"
-
-		pwm.setPWM(1,0,servoZero)
-		pwm.setPWM(0,0,servoZero)
-
-		wasDisabled = True		
-
-	elif hasntHitFlag and right:
-		pwm.setPWM(1,0,leftservoMin)
-		pwm.setPWM(0,0,rightservoMed)
-		if middle and right:
+		elif (not lastReadM) and (not lastReadL) and (not lastReadR) and left:
+			#count2 += 0.1
+		       #pwm.setPWM(1,0,leftservoMax)
+		       #pwm.setPWM(0,0,servoZero)
+			time.sleep(0.8)
+			pwm.setPWM(1,0,leftservoMax)
+			pwm.setPWM(0,0,leftservoMin)
 			hasntHitFlag = False
+			time.sleep(1.5)	
 
-	elif hasntHitFlag and left:
-		pwm.setPWM(1,0,leftservoMed)
-		pwm.setPWM(0,0,rightservoMin)
-		if middle and left:
-			hasntHitFlag = False	
+		elif middle and left and right:
+			lapCounter += 1
 
-	elif middle and left and right:
-		lapCounter += 1
+			if (hitStartLine == False):
+				hitStartLine = True
+			
+				pwm.setPWM(1,0,servoZero)
+				pwm.setPWM(0,0,servoZero)			
 
-		if (hitStartLine == False):
-			hitStartLine = True
+				time.sleep(3)		
+
+			pwm.setPWM(1,0,leftservoMax)
+			pwm.setPWM(0,0,rightservoMax)
+	
+		elif middle and left:
+	
+			pwm.setPWM(1, 0, leftservoMed)
+  			pwm.setPWM(0, 0, rightservoMax)
+	
+		elif left:
 			
 			pwm.setPWM(1,0,servoZero)
-			pwm.setPWM(0,0,servoZero)			
+			pwm.setPWM(0,0,rightservoMed)
 
-			time.sleep(2)		
-
-		pwm.setPWM(1,0,leftservoMax)
-		pwm.setPWM(0,0,rightservoMax)
-	
-	elif middle and left:
-
-		pwm.setPWM(1, 0, leftservoMed)
-  		pwm.setPWM(0, 0, rightservoMax)
-	
-	elif left:
+		elif right and middle:
 		
-		pwm.setPWM(1,0,servoZero)
-		pwm.setPWM(0,0,rightservoMin)
+			pwm.setPWM(1,0,leftservoMax)
+			pwm.setPWM(0,0,rightservoMed)
 
-	elif right and middle:
+		elif right:
 		
-		pwm.setPWM(1,0,leftservoMax)
-		pwm.setPWM(0,0,rightservoMed)
+			pwm.setPWM(1,0,leftservoMed)
+			pwm.setPWM(0,0,servoZero)
 
-	elif right:
+		elif middle:
+
+			pwm.setPWM(1,0,leftservoMed)
+			pwm.setPWM(0,0,rightservoMed)
+
+		else:
 		
-		pwm.setPWM(1,0,leftservoMin)
-		pwm.setPWM(0,0,servoZero)
-
-	elif middle:
-
-		pwm.setPWM(1,0,leftservoMed)
-		pwm.setPWM(0,0,rightservoMed)
-
-	else:
-		
-		pwm.setPWM(1,0,leftservoMin)
-		pwm.setPWM(0,0,rightservoMin)
+			pwm.setPWM(1,0,leftservoMin)
+			pwm.setPWM(0,0,rightservoMin)
 
 	
- 	time.sleep(0.01)
+	 	time.sleep(0.04)
+		lastReadM = middle
+		lastReadL = left
+		lastReadR = right
