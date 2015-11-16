@@ -1,0 +1,2004 @@
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:1 M:1 R:0 E: 1
+Flag: True
+L:1 M:1 R:0 E: 1
+Flag: True
+L:1 M:1 R:0 E: 1
+Flag: True
+L:1 M:1 R:0 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:0 M:1 R:1 E: 1
+Flag: True
+L:0 M:1 R:1 E: 1
+Flag: True
+L:0 M:1 R:1 E: 1
+Flag: True
+L:0 M:1 R:1 E: 1
+Flag: True
+L:0 M:1 R:1 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:0 M:1 R:0 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:1 M:1 R:1 E: 0
+Flag: True
+L:1 M:1 R:1 E: 1
+Flag: True
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:0 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 1
+Flag: False
+L:1 M:1 R:1 E: 0
+Flag: False
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:0 M:0 R:0 E: 1
+Flag: True
+L:1 M:1 R:0 E: 1
+Flag: True
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:0 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:1 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:0 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:1 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag: False
+L:1 M:0 R:0 E: 1
+Flag:

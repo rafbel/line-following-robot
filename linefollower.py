@@ -84,7 +84,7 @@ while (True):
 			pwm.setPWM(0,0,rightservoMax)
 			pwm.setPWM(1,0,rightservoMin)
 			hasntHitFlag = False
-			time.sleep(1.5)
+			time.sleep(1.1)
 
 		elif (not lastReadM) and (not lastReadL) and (not lastReadR) and left:
 			#count2 += 0.1
@@ -94,7 +94,7 @@ while (True):
 			pwm.setPWM(1,0,leftservoMax)
 			pwm.setPWM(0,0,leftservoMin)
 			hasntHitFlag = False
-			time.sleep(1.5)	
+			time.sleep(1.1)	
 
 		elif middle and left and right:
 			lapCounter += 1
@@ -132,8 +132,8 @@ while (True):
 
 		elif middle:
 
-			pwm.setPWM(1,0,leftservoMed)
-			pwm.setPWM(0,0,rightservoMed)
+			pwm.setPWM(1,0,leftservoMax)
+			pwm.setPWM(0,0,rightservoMax)
 
 		else:
 		
